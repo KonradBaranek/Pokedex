@@ -1,13 +1,13 @@
 # Pokedex
 Symulator Pokedexa w którym można sprawdzać dane o pokemonach oraz dodawać nowe okazy
 
-#Front 
+# Front 
 VUE.js
 
 
-#Server
+# Server
 Node.js 
 Express
 
-#DB
+# Baza Danych
 MongoDB
